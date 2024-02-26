@@ -1,0 +1,9 @@
+constraints: [0, 0, 0, 0]
+Objective Values: [1, -6]
+ones: 235
+zeros: 305
+evaluation: 60
+changes: 30
+constraints_leader: [-1, -1, 0, 0]
+Objective Values_leader: [1, 1999995]
+time: -245.9097249507904
